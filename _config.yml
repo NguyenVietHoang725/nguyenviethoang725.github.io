@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 🌱 Learn Anything's Garden
-email: support@thinhvu.com
-author: LEarn Anything
+title: 🌊 The Knowledge Abyss
+email: hoangnguyen72.dev@gmail.com
+author: Hoang Nguyen Viet (Harry Cain)
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,16 +40,14 @@ author: LEarn Anything
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "2022-{currentYear} {author}"
+copyright: "© 2025-{currentYear} {author}. All rights reserved."
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal site of Hoang Nguyen Viet (Harry Cain) – sharing coding projects, tech learnings, and reflections on life.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://learn-anything.online" # the base hostname & protocol for your site, e.g. https://thinh-vu.github.io
-favicon: "" # the favicon for your site
+url: "https://nguyenviethoang725.github.io/" # the base hostname & protocol for your site, e.g. https://thinh-vu.github.io
+favicon: "assets/favicon/icons8-sea-64.png" # the favicon for your site
 
 # Yat date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -66,7 +64,7 @@ yat:
 content_width: "1200px"
 
 # Google analytics - GA4
-google_analytics: G-T55MBNEVET
+# google_analytics:
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
@@ -163,7 +161,7 @@ header_pages:
   - tags.html
   - archives.html
   - title: Khóa học
-    url: https://learn-anything.vn/
+    url: https://nguyenviethoang725.github.io/
   - about.html
 
 # Page default value
