@@ -110,7 +110,7 @@ translate_langs:
 # spacegrey: #353535
 # snowwhite: #ffffff
 #
-theme_color: snowwhite
+theme_color: "#2D336B"
 #
 # Custom color as below:
 # theme_color: "#882250"
@@ -125,12 +125,12 @@ theme_color: snowwhite
 #
 # Custom color as below:
 
-brand_color: "#04d972" # electric green - slightly darker compared to the original brand color
+brand_color: "#6EC207"
 
 # You can custom selection style
-# selection:
-#   color: "#ff00ff"
-#   background_color: "yellow"
+selection:
+  color: "#ffffff"
+  background_color: "#04d972"
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -167,8 +167,8 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "Learn Anything. Anytime. Anywhere."
-    subheading: "Ignite Curiosity. Learn Anything!"
+    heading: "Dive into The Knowledge Abyss. Level Up Your Life."
+    subheading: "In this endless sea of knowledge, play, learn, and evolve with every discovery!"
     banner: "/assets/images/banners/photo_by_amanda-sandlin-unsplash.jpg"
 
 # Banner default settings
@@ -214,11 +214,11 @@ paginate: 10
 # Click to top settings
 # click_to_top:
 #   light:
-#     background_color: "white"
-#     color: "#454545"
+#     background_color: "rgba(255, 255, 255, 0.8)"
+#     color: "#7886C7"
 #   dark:
-#     background_color: "#34323d"
-#     color: "#bbb"
+#     background_color: "rgba(20, 20, 20, 0.8)"
+#     color: "#7886C7"
 
 # Disqus comments
 # disqus:
